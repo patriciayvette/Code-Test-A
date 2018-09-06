@@ -13,8 +13,8 @@ namespace Code_Test_A
     {
         static void Main(string[] args)
         {
-            DateTime dateTime = new DateTime();
-            dateTime = DateTime.Now;
+
+            var json="";
             List<string> kota = new List<string>();
             string url = "https://raw.githubusercontent.com/lutangar/cities.json/master/cities.json";
                          
@@ -24,7 +24,16 @@ namespace Code_Test_A
             //--Fetching Data--
             var webClient = new WebClient();
             webClient.Proxy = null;
-            var json = webClient.DownloadString(url);
+            try
+            {
+                json = webClient.DownloadString(url);
+            }catch(WebException e)
+            {
+                Console.WriteLine(e.ToString());
+                Console.ReadKey();
+                Environment.Exit(0);
+            }
+
             var jsonArray = JArray.Parse(json);
 
             for (int i = 0; i < jsonArray.Count; i++)

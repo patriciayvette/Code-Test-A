@@ -8,3 +8,13 @@ E:\program\Code Test A\Code Test A\obj\Debug\Code Test A.csprojAssemblyReference
 E:\program\Code Test A\Code Test A\bin\Debug\Newtonsoft.Json.dll
 E:\program\Code Test A\Code Test A\bin\Debug\Newtonsoft.Json.xml
 E:\program\Code Test A\Code Test A\obj\Debug\Code Test A.csproj.CopyComplete
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\bin\Debug\Code Test A.exe.config
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\bin\Debug\Code Test A.exe
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\bin\Debug\Code Test A.pdb
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\obj\Debug\Code Test A.csprojAssemblyReference.cache
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\obj\Debug\Code Test A.csproj.CoreCompileInputs.cache
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\obj\Debug\Code Test A.csproj.CopyComplete
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\obj\Debug\Code Test A.exe
+C:\Users\Tita\Documents\GitHub\Code-Test-A\Code Test A\Code Test A\obj\Debug\Code Test A.pdb
