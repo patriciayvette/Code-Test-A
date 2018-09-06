@@ -1,0 +1,10 @@
+E:\program\Code Test A\Code Test A\bin\Debug\Code Test A.exe.config
+E:\program\Code Test A\Code Test A\bin\Debug\Code Test A.exe
+E:\program\Code Test A\Code Test A\bin\Debug\Code Test A.pdb
+E:\program\Code Test A\Code Test A\obj\Debug\Code Test A.csproj.CoreCompileInputs.cache
+E:\program\Code Test A\Code Test A\obj\Debug\Code Test A.exe
+E:\program\Code Test A\Code Test A\obj\Debug\Code Test A.pdb
+E:\program\Code Test A\Code Test A\obj\Debug\Code Test A.csprojAssemblyReference.cache
+E:\program\Code Test A\Code Test A\bin\Debug\Newtonsoft.Json.dll
+E:\program\Code Test A\Code Test A\bin\Debug\Newtonsoft.Json.xml
+E:\program\Code Test A\Code Test A\obj\Debug\Code Test A.csproj.CopyComplete
